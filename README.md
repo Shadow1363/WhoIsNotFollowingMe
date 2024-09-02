@@ -2,8 +2,7 @@
 A simple JS command that can be run in the terminal to see who you are following that isn't following you back.
 
 # why?
-Recently there was a sudden influx of people trying to bait followers, following me who then I follow back, only for them to stop following me a day later. So to combat that, I "made" this little code.
-
+Recently, I've noticed an influx of people trying to bait followers—they follow me, I follow them back, and then they unfollow me shortly after. To combat this, I "made" this.
 # how to use
 1. **Copy the Code:**
 ```js
